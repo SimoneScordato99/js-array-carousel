@@ -1,0 +1,19 @@
+.container {
+    border: 2px solid red;
+    width: 80%;
+    margin: 0 auto;
+}
+.carosello {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.freccia {
+    font-size: 45px;
+}
+.immagine {
+    display: none;
+}
+.attiva {
+    display: block;
+}
